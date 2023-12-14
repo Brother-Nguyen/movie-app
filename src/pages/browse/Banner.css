@@ -1,0 +1,29 @@
+.banner {
+  height: 75vh;
+  width: auto;
+  background-color: black;
+  color: white;
+  background-clip: border-box;
+  background-size: cover;
+  background-position: right top;
+}
+
+.banner-info {
+  width: 30%;
+  padding: 30px;
+  padding-top: 100px;
+}
+
+.banner-info > div > button {
+  width: 90px;
+  padding: 5px;
+  color: white;
+  background-color: #cccccc96;
+  border: none;
+  margin: 5px;
+}
+
+.banner-info > p {
+  font-size: 14px;
+  font-weight: 400;
+}

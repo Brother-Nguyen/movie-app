@@ -1,0 +1,6 @@
+.search {
+  flex-wrap: wrap;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  scroll-snap-type: none;
+}

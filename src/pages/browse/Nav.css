@@ -1,0 +1,23 @@
+nav {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.nav-dark {
+  background-color: #111111;
+}
+
+nav > a {
+  color: red;
+  text-decoration: none;
+  margin-top: 10px;
+}
+
+nav > a > svg {
+  height: 30px;
+}
