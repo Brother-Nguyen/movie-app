@@ -21,7 +21,7 @@ function Nav() {
   return (
     <nav className={className}>
       <Link to="/movie-app">Movie App</Link>
-      <Link to="/movie-app/search">
+      <Link to="/search">
         <svg
           className="svg-inline--fa fa-search fa-w-16"
           fill="#ccc"
